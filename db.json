@@ -1,1 +1,27 @@
-
+[
+    {
+      name: "Tom",
+      favColor: "royalblue",
+      id: 1
+    },
+    {
+      name: "Sarah",
+      favColor: "palevioletred",
+      id: 2
+    },
+    {
+      name: "Paul",
+      favColor: "seagreen",
+      id: 3
+    },
+    {
+      name: "John",
+      favColor: "royalblue",
+      id: 4
+    },
+    {
+      name: "Ashley",
+      favColor: "orange",
+      id: 5
+    }
+  ]
